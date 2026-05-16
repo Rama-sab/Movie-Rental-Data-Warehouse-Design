@@ -1,2 +1,0 @@
-C:\Users\Admin>mysql -u root -p sakila < "C:\Users\Admin\Downloads\fileDB (1).sql"
-Enter password: ************

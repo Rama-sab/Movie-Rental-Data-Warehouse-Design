@@ -2,7 +2,7 @@
 
 > **Course:** Data Warehousing / Data Architecture  
 > **Topic:** From OLTP Schema to Dimensional Model and ETL Design  
-> **Source Database:**```text
+> **Source Database:**```
 https://drive.google.com/file/d/1UxR65upm350BBJkEODJQ3h2LQKGrw5-L/view
 ```
 
